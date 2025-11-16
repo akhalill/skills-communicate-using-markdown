@@ -1,0 +1,6 @@
+# HERE I AM A TESTER LEARNING
+- [ ] LEARN TO MAKE HEADERS
+- [ ] LEARN TO MAKE IMAGES
+- [ ] LEANR TO MAKE JAVASCRIPT CODE
+- [ ] LEARN TO MAKE LISTS
+- [ ] changes after a pull request
