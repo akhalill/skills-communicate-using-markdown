@@ -3,3 +3,4 @@
 - [ ] LEARN TO MAKE IMAGES
 - [ ] LEANR TO MAKE JAVASCRIPT CODE
 - [ ] LEARN TO MAKE LISTS
+- [ ] changes after a pull request
